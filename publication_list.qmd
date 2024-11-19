@@ -1,0 +1,37 @@
+---
+format:
+  docx:
+    reference-doc: custom-reference-doc.docx
+editor: source
+bibliography: references.bib
+csl: elsevier-vancouver-modified_ZKA.csl
+filters:
+  - section-bibliographies
+citeproc: false
+
+---
+
+# Udgivne artikler, førsteforfatter
+@al-mashhadiSGLT2InhibitorTreatment2022
+@al-mashhadiRiskMajorOsteoporotic2022
+@al-mashhadiGlucoseLoweringDrugsFracture2020
+@al-mashhadiBoneHealthElderly2020
+
+# Udgivne artikler, medforfatter
+@al-mashhadi18FluorodeoxyglucoseAccumulationArterial2019
+@al-mashhadiLocalPressureDrives2021
+@viggersImpactExerciseBone2020
+@viggersAlendronateUseRisk2021
+@viggersEfficacyAlendronateDenosumab2022
+@vanhultenAssociationsSodiumglucoseCotransporter22023
+@mellbyeEffects12WeekSupplementation2024
+@starup-lindeSerumOsteoglycinStable2024
+
+# Konferenceabstrakts
+@al-mashhadiFractureRiskTreatment2022
+@al-mashhadiSGLT2InhibitorTreatment2022
+
+<!-- # Insendte artikler. -->
+
+# Manuskripter under udarbejdelse
+@al-mashhadiSystemicGlucocorticoidUse
